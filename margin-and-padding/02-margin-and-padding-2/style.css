@@ -6,7 +6,8 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  margin: 16px auto;
+  margin: auto;
+  padding: 20px;
 }
 
 .title {
@@ -18,6 +19,7 @@ body {
 }
 
 .button-container {
+  margin: 10px;
   background: #e3f4ff;
 }
 
